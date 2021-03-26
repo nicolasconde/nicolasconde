@@ -3,7 +3,7 @@
 Front-end Developer, Currently in love with JS and React.
 <br>
 <br>
-I currently work at @Investflex.
+I currently work at <a href="https://investflex.com.br/">InvestFlex</a>.
 <br>
 <br>
 I`m learning at the moment Java, JavaScript, Kotlin, React/ReactNative.
@@ -20,8 +20,8 @@ I`m learning at the moment Java, JavaScript, Kotlin, React/ReactNative.
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicolasconde&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasconde&layout=compact&theme=radical">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasconde&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=nicolasconde&show_icons=true&theme=radical"/>
 </div>
