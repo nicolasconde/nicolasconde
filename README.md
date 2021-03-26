@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif" align="center">
+<img src="https://media.giphy.com/media/MYCNCBjQIKoQAbD6Qx/giphy.gif" align="center" width="20%">
 <br>
 <br>
 <samp>
@@ -13,9 +13,7 @@
 My name is Nicolas Conde and I'm currently 20 years old.<br> I'm studying <a href="">Kotlin</a>, <a href="">React</a>, <a href="">React Native</a>
 JS and React.
 <br>
-<br>
 I currently work at <a href="https://investflex.com.br/">InvestFlex</a>.
-<br>
 <br>
 I`m learning at the moment Java, JavaScript, Kotlin, React/ReactNative.
 <br>
