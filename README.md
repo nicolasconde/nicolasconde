@@ -3,7 +3,7 @@
 <br>
 <br>
 <samp>
-👋 Hi there! I'm a Developer!
+👋 Hi there! I'm a Developer
 </samp>
 </div>
 <p align="center"><a href="">In Portuguese ➤</a></p></p>
