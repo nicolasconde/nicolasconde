@@ -15,8 +15,9 @@ I`m learning at the moment Java, JavaScript, Kotlin, React/ReactNative.
 
 <br>
 <p align="center">
-<a><img src="https://img.icons8.com/nolan/64/react-native.png" width="40" ></a><a><img src="https://img.icons8.com/nolan/96/javascript.png" width="40" ></a><a><img src="https://img.icons8.com/nolan/128/java-coffee-cup-logo.png" width="40" ></a>
+<a><img src="https://img.icons8.com/nolan/64/react-native.png" width="40" align="right"></a><a><img src="https://img.icons8.com/nolan/96/javascript.png" width="40" align="right"></a><a><img src="https://img.icons8.com/nolan/128/java-coffee-cup-logo.png" width="40" align="right"></a>
 </p>
+<br>
 <br>
 
 ---
