@@ -1,30 +1,29 @@
 <div align="center">
-<img src="https://media.giphy.com/media/MYCNCBjQIKoQAbD6Qx/giphy.gif" align="center" width="20%">
-<br>
+<img src="https://media.giphy.com/media/MYCNCBjQIKoQAbD6Qx/giphy.gif" align="center" width="10%">
 <br>
 <samp>
-👋 Hi there! I'm a Developer
+👋 Hi there! I'm a Developer!
 </samp>
 </div>
-
 <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p></p>
+<br>
 
-<p align="center" style="text-align: center;">
-My name is Nicolas Conde and I'm currently 20 years old.<br> I'm studying <a href="">Kotlin</a>, <a href="">React</a>, <a href="">React Native</a>
-JS and React.
+<samp>
+<p align="center">
+My name is Nicolas Conde,<br> I'm studying <a href="">Kotlin</a>, <a href="">Java</a>, <a href="">React</a>/<a href="">React Native</a> and
+JS.
 <br>
 I currently work at <a href="https://investflex.com.br/">InvestFlex</a>.
-<br>
-I`m learning at the moment Java, JavaScript, Kotlin, React/ReactNative.
+</samp>
 <br>
 <br>
 <br>
 <br>
 
 <p align="center">
-"May your work be perfect so that, even after your death, it remains."
+"O seu amor me deixa mais forte. O seu ódio me torna indomável."
 <br>
-― Leonardo da Vinci
+― Cristiano Ronaldo
 </p>
 
 <div>
@@ -39,3 +38,4 @@ I`m learning at the moment Java, JavaScript, Kotlin, React/ReactNative.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicolasconde&show_icons=true&theme=radical"/>
 </div>
+
