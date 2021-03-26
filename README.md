@@ -5,7 +5,7 @@
 <h3 align="center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h3>
 
 <br>
-<a><img src="https://img.icons8.com/nolan/64/react-native.png" width="40"></a></a><a><img src="https://img.icons8.com/nolan/96/javascript.png" width="40"></a><a><img src="https://img.icons8.com/nolan/128/java-coffee-cup-logo.png" width="40"></a>
+<a><img src="https://img.icons8.com/nolan/64/react-native.png" width="40" align="left"></a></a><a><img src="https://img.icons8.com/nolan/96/javascript.png" width="40" align="left"></a><a><img src="https://img.icons8.com/nolan/128/java-coffee-cup-logo.png" width="40" align="left"></a>
 <br>
 <br>
 <br>
