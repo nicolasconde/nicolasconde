@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://media.giphy.com/media/MYCNCBjQIKoQAbD6Qx/giphy.gif" align="center" width="30%">
+<img src="https://media.giphy.com/media/MYCNCBjQIKoQAbD6Qx/giphy.gif" align="center" width="40%">
+<br>
 <br>
 <samp>
 👋 Hi there! I'm a Developer!
@@ -38,3 +39,4 @@ I currently work at <a href="https://investflex.com.br/">InvestFlex</a>.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicolasconde&show_icons=true&theme=radical"/>
 </div>
+
