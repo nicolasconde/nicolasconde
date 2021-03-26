@@ -1,6 +1,12 @@
+<div align="center">
+<img src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif" align="center">
+<br>
+<br>
 <samp>
-<h1 align="center">👋 Hi there! I'm a Developer</h1>
+👋 Hi there! I'm a Developer
 </samp>
+</div>
+
 <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p></p>
 
 <p align="center" style="text-align: center;">
