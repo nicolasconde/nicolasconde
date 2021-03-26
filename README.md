@@ -21,5 +21,7 @@ I`m learning at the moment Java, JavaScript, Kotlin, React/ReactNative.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicolasconde&show_icons=true&theme=radical"/>
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasconde&layout=compact&theme=radical">
 </div>
