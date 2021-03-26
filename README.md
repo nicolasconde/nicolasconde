@@ -11,4 +11,4 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-![nicolasconde GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![nicolasconde GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasconde&show_icons=true)
