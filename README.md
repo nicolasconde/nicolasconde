@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://media.giphy.com/media/MYCNCBjQIKoQAbD6Qx/giphy.gif" align="center" width="10%">
+<img src="https://media.giphy.com/media/MYCNCBjQIKoQAbD6Qx/giphy.gif" align="center" width="20%">
 <br>
 <samp>
 👋 Hi there! I'm a Developer!
 </samp>
 </div>
-<p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p></p>
+<p align="center"><a href="">In Portuguese ➤</a></p></p>
 <br>
 
 <samp>
