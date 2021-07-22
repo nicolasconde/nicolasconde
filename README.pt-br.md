@@ -6,13 +6,12 @@
 👋 Olá! Eu sou um desenvolvedor
 </samp>
 </div>
-<p align="center"><a href="./README.md">Em Inglês ➤</a></p></p>
+<p align="center"><a href="">Em Inglês ➤</a></p></p>
 <br>
 
 <samp>
 <p align="center">
-Meu nome é Nicolas Conde,<br> Estou estudando <a href="">Kotlin</a>, <a href="">Java</a>, <a href="">React</a>/<a href="">React Native</a> e
-JS.
+Meu nome é Nicolas Conde,<br> Estou estudando <a href="https://developer.android.com/">Kotlin</a>, <a href="https://pt-br.reactjs.org/">React</a>/<a href="https://reactnative.dev/">React Native</a> e <a href="">JavaScript</a>.
 <br>
 Atualmente trabalho em <a href="https://investflex.com.br/">InvestFlex</a>.
 </samp>

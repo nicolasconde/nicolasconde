@@ -6,13 +6,12 @@
 👋 Hi there! I'm a Developer
 </samp>
 </div>
-<p align="center"><a href="">In Portuguese ➤</a></p></p>
+<p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p></p>
 <br>
 
 <samp>
 <p align="center">
-My name is Nicolas Conde,<br> I'm studying <a href="">Kotlin</a>, <a href="">Java</a>, <a href="">React</a>/<a href="">React Native</a> and
-JS.
+My name is Nicolas Conde,<br> I'm studying <a href="https://developer.android.com">Kotlin</a>, <a href="https://pt-br.reactjs.org/">React</a>/<a href="https://reactnative.dev/">React Native</a> and <a>JavaScript</a>.
 <br>
 I currently work at <a href="https://investflex.com.br/">InvestFlex</a>.
 </samp>
