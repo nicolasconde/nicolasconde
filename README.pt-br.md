@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" align="center" width="20%">
+<img src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" align="center" width="30%">
 <br>
 <br>
 <samp>
 👋 Olá! Eu sou um desenvolvedor
 </samp>
 </div>
-<p align="center"><a href="">Em Inglês ➤</a></p></p>
+<p align="center"><a href="./README.md">Em Inglês ➤</a></p></p>
 <br>
 
 <samp>
@@ -15,7 +15,6 @@ Meu nome é Nicolas Conde,<br> Estou estudando <a href="https://developer.androi
 <br>
 Atualmente trabalho em <a href="https://investflex.com.br/">InvestFlex</a>.
 </samp>
-<br>
 <br>
 <br>
 <br>

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" align="center" width="20%">
+<img src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif" align="center" width="30%">
 <br>
 <br>
 <samp>
@@ -15,7 +15,6 @@ My name is Nicolas Conde,<br> I'm studying <a href="https://developer.android.co
 <br>
 I currently work at <a href="https://investflex.com.br/">InvestFlex</a>.
 </samp>
-<br>
 <br>
 <br>
 <br>
