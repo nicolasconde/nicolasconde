@@ -37,6 +37,6 @@
 <br>
 
 <div display="flex" align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=nicolasconde&show_icons=true&theme=nightowl"/>
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasconde&layout=compact&theme=nightowl">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=nicolasconde&show_icons=true&theme=nightowl"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasconde&layout=compact&theme=nightowl">
 </div>
