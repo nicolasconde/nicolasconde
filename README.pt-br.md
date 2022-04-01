@@ -12,7 +12,7 @@
     <p align="center">
         Meu nome é <strong>Nicolas Conde</strong>, Estou estudando <a href="https://pt-br.reactjs.org/">React</a>/<a href="https://reactnative.dev/">React Native</a>, <a href="">JavaScript</a> e <a href="https://developer.android.com/">Kotlin</a>
     <br>
-        Atualmente trabalho em <a href="https://investflex.com.br/">InvestFlex</a>.
+        Atualmente trabalho em ...
 </samp>
 <br>
 <br>
